@@ -1,0 +1,1 @@
+export const primary = "#fe4400"
